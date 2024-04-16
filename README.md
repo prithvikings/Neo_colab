@@ -11,5 +11,5 @@ NeoCoLab is a platform dedicated to providing resources and practice opportuniti
 To get started with these practice problems, simply clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/neocolab-c-practice.git
+https://github.com/prithvikings/Neo_colab.git
 ```
